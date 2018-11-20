@@ -1,1 +1,1 @@
-e889f84 #1434 fixing example prod build after rebasing my repository.
+4ffa802 #1434 created new script example:build so it can work with http-server

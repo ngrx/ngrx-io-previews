@@ -1,1 +1,1 @@
-e839086 Merge branch 'issues/1434-2' of https://github.com/roopkt/platform into issues/1434-2
+a51d037 feat(store): support meta reducer factory for feature (#1414)

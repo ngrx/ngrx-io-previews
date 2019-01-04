@@ -1,1 +1,1 @@
-9ec26ad docs: fixed the Book typo error
+6c801b1 fix(store): call metareducer with the user's config initial state

@@ -1,1 +1,1 @@
-6c801b1 fix(store): call metareducer with the user's config initial state
+541d8df fix(store): call metareducer with the user's config initial state

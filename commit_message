@@ -1,1 +1,1 @@
-4c0631b test(Example): update snapshot
+67b4d66 fix(store): call metareducer with the user's config initial state

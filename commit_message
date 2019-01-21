@@ -1,1 +1,1 @@
-81c05e4 fix(RouterStore): capture router state on router navigated
+5c2476f fix(RouterStore): add default to base router store state

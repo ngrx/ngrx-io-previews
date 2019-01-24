@@ -1,1 +1,1 @@
-4ad2004 Beefed up wording on store-devtools config page. Added features, actionsBlacklist, actionsWhitelist, and predicate options. Added example instrumention object.
+a8ae9bc Added code-example tag for consistency

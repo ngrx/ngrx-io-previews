@@ -1,1 +1,1 @@
-9012cc3 feat: adding api flag to schematics, cleaning up tests
+1a7bf87 feat: implement api flag in templates, add new tests for schematics if api flag enabled

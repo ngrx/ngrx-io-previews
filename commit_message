@@ -1,1 +1,1 @@
-f63e6c6 docs: typo
+5fef5be fix(StoreDevTools): fall back to last known state when out of bounds

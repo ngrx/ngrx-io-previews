@@ -1,1 +1,1 @@
-b072185 fix(package.json) watch:tests script to work with Windows
+0c52347 feat(schematics): Add ng-add support with prompt for making our schematics as default

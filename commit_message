@@ -1,1 +1,1 @@
-ee081de replace Action interface with Action type
+163dc75 build: move e2e tests to its own build step

@@ -1,1 +1,1 @@
-163dc75 build: move e2e tests to its own build step
+3447f87 fix(Store): selector with only a projector

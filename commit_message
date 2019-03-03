@@ -1,1 +1,1 @@
-402bf55 fix(example-app): add tsconfig.json
+d234c09 refactor(schematics): use defaultProject if project is not provided

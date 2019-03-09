@@ -1,1 +1,1 @@
-f4b02ae feat(Store): rethrow state errors
+0f52c54 fix(Example): disable strictStateSerializabilityChecks

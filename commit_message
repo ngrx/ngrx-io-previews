@@ -1,1 +1,1 @@
-0f52c54 fix(Example): disable strictStateSerializabilityChecks
+8e3eaf8 feat(Store): add action serialization checks

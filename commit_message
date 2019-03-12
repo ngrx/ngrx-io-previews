@@ -1,1 +1,1 @@
-fcd21bb feat(Store): allow meta-reducers to be provided as an array
+35c41fe refactor(example): use MockStore in Auth Guard test

@@ -1,1 +1,1 @@
-903dd6c refactor(example): cast initialState to type fromAuth.State
+89a9b21 revert(Store): muta-reducers an an array fcd21bb

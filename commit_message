@@ -1,1 +1,1 @@
-280bdb5 docs: add MDB Angular Boilerplate to example resources
+fc30ba5 docs: refactor to use UTC YYYY-MM-DD format and moved date range function into a pipe

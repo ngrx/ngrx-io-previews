@@ -1,1 +1,1 @@
-c402e92 docs: set working_directory for docs-tests circleci config
+19c1e2a docs: remove cwd flag from docs-tests

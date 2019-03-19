@@ -1,1 +1,1 @@
-e148f00 docs: use docs_cache_key in circleci config
+0dd83ce docs: add same setup steps to docs-tests from docs

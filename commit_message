@@ -1,1 +1,1 @@
-0dd83ce docs: add same setup steps to docs-tests from docs
+734edd3 docs: revert changes to docs-test configuration, extract run_in_browser var

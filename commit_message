@@ -1,1 +1,1 @@
-78b2275 space thee A's in test, remove some union functions
+1a8d7c0 refactor(example): remove @ngrx/db and add simple localStorage replacment

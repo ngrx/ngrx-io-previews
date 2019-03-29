@@ -1,1 +1,1 @@
-e649f0f attempt to clear local storage on load
+976f018 test: using Injector instead of ReflectiveInjector (#1658)

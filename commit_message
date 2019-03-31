@@ -1,1 +1,1 @@
-4283711 refactor(example): remove @ngrx/db
+1f251ad fix(schematics): avoid lastIndexOf error while creating store schematics (#1659)

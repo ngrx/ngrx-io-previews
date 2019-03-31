@@ -1,1 +1,1 @@
-1f251ad fix(schematics): avoid lastIndexOf error while creating store schematics (#1659)
+3180c0f refactor(example): update search query for book search

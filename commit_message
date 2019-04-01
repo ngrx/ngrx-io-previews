@@ -1,1 +1,1 @@
-b4be5be refactor(example): remove @ngrx/db
+189008a refactor(Store): don't export internal functions and tokens

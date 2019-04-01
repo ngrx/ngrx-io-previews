@@ -1,1 +1,1 @@
-218a1a4 feat(Store): rethrow state errors
+531d115 Use Array.some and compare to string first

@@ -1,1 +1,1 @@
-1a70cc3 fix(schematics): avoid lastIndexOf error while creating store schematics (#1659)
+218a1a4 feat(Store): rethrow state errors

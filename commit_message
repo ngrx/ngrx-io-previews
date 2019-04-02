@@ -1,1 +1,1 @@
-2d9f8ac feat(store): add API to mock selector return value
+ead9718 feat(effects): allow non-dispatching effects to not return an action

@@ -1,1 +1,1 @@
-c0f85cd feat(schematics): add support for create effect to schematics
+2a88984 docs: remove unused action union, remove unnecessary map, use tap instead of map with effects that don't dispatch

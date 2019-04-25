@@ -1,1 +1,1 @@
-87cd089 feat(store): Expand createReducer type signature to support up to ten action creators
+14e20a5 docs: update last sentence to less confusing wording

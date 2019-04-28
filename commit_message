@@ -1,1 +1,1 @@
-c89f0ca Build(schematics): Update TypeScript to 3.4.x and RxJS to 6.5.x
+4e9954c refactor(example): use barrel import for auth module

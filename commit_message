@@ -1,1 +1,1 @@
-607d231 Build(schematics): Update TypeScript to 3.4.x and RxJS to 6.5.x
+388ca02 adjust where NotificationKind is imported from

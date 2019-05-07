@@ -1,1 +1,1 @@
-5dd81be docs: add and fix the original ngrx-data docs
+96654cf remove restriction from Input to be an Observable of Action

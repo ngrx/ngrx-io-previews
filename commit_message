@@ -1,1 +1,1 @@
-e2b11e3 resolved conflicts
+1ee1488 revert: warn when same action is registered (#1801) This reverts commit ecda5f71faafb00477182d7468e359db81120ff2

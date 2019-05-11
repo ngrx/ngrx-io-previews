@@ -1,1 +1,1 @@
-0ea158f refactor(example): use barrel import for book module
+3160e9c refactor(example): add PipeModule to BookModule for bcAddCommas

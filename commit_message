@@ -1,1 +1,1 @@
-5de23db docs(home): replace the use of fit-content because it is not compatible with safari
+b3af493 feat(router-store) Add base router selectors - create initial spec - tested selectors retrievable from example app

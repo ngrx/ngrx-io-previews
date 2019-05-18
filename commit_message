@@ -1,1 +1,1 @@
-12935dc docs(home): remove the use of viewport units looking for better compat
+5de23db docs(home): replace the use of fit-content because it is not compatible with safari

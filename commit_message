@@ -1,1 +1,1 @@
-a89b6eb docs(home): revert changes of last commit and add more horzt padding to code examples
+0b77e8a docs(home): make fix min-width to 100% (parent size on safari)

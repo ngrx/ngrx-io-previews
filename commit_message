@@ -1,1 +1,1 @@
-524c21e Merge branch 'master' into example/non-actions-effects
+28c718d fix(store): adjust mock store to handle selectors with props

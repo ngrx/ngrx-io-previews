@@ -1,1 +1,1 @@
-5e4ba92 docs(home): change code examples display property to flex as possible  workaround
+7aab866 docs(home): sets the min-width of the code examples to 440px (the size of the design)

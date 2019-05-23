@@ -1,1 +1,1 @@
-7c37ccd feat(router-store) Add base router selectors - utilize createSelectors() internally
+dc7b8a4 docs: add section for why ngrx (#1852)

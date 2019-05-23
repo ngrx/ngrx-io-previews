@@ -1,1 +1,1 @@
-922a3af docs: Pending review comments from reateReducer()
+7c37ccd feat(router-store) Add base router selectors - utilize createSelectors() internally

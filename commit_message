@@ -1,1 +1,1 @@
-3abcc7d feat(router-store) Add base router selectors - link out to custom serializer
+3acc6dd feat(router-store) Add base router selectors - remove unnecessary type from model - add additional unit tests - correct documentation wording

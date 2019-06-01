@@ -1,1 +1,1 @@
-b606431 fix(router-store): remove circular depedency in serializers
+c357ae0 ci: add scripts to automate publishing of releases

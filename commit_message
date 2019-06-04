@@ -1,1 +1,1 @@
-4f464f4 chore: add sponsorship button to OpenCollective
+216a4a5 fix(action): Stop passing a function to store.dipatch and stop effect that is returns a function #1906

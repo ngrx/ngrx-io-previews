@@ -1,1 +1,1 @@
-55ed464 fix(action): revert using of throwErrorOnInvalidAction in EffectsRunner #1914
+9c16e2c refactor(selectors) Capture the type of a selectors projector - supply a default projector type to MemoizedSelector

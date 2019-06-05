@@ -1,1 +1,1 @@
-3257d2e docs: add section for why ngrx (#1852)
+55ed464 fix(action): revert using of throwErrorOnInvalidAction in EffectsRunner #1914

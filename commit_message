@@ -1,1 +1,1 @@
-9c16e2c refactor(selectors) Capture the type of a selectors projector - supply a default projector type to MemoizedSelector
+2b25c95 fix(action): code changes acording code review #1914

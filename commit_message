@@ -1,1 +1,1 @@
-d3d01b1 docs: add exported reducer function to createReducer examples
+c72dbde Merge https://github.com/ngrx/platform into bug/strange-behavior-dispatch-action-and-effects-return-action

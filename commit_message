@@ -1,1 +1,1 @@
-c72dbde Merge https://github.com/ngrx/platform into bug/strange-behavior-dispatch-action-and-effects-return-action
+ca62d3a fix(action): it should be checked if the action is not a function

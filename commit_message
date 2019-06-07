@@ -1,1 +1,1 @@
-ca62d3a fix(action): it should be checked if the action is not a function
+dd9131e fix(action): add missing expression when action is undefined

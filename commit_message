@@ -1,1 +1,1 @@
-11b3e8a Merge https://github.com/ngrx/platform into bug/strange-behavior-dispatch-action-and-effects-return-action
+9619b37 fix(action): adjust wording of action error

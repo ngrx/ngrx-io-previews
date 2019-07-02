@@ -1,1 +1,1 @@
-dfbeafc docs: update action creator with function setup and referencing in an effecT
+6a2d79a docs:  add destructuring actions with props example for createReducer (#1985)

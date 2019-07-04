@@ -1,1 +1,1 @@
-797391d fix(data): allow ChangeSetItemFactory to update entities with number ids
+e6c10fd fix(store): immutability check IE compatibility

@@ -1,1 +1,1 @@
-777ef72 Moving searchbox inside the top menu for styling, adding additionally for mobile view
+4fecf2b refactor(store): give createReducer generic action

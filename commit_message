@@ -1,1 +1,1 @@
-d446b79 chore: add mock back as required for tests
+8e32d2a docs: warning that runtime checks are incompatible with DefaultRouterStateSerializer fixes #2016

@@ -1,1 +1,1 @@
-68facda refactor(schematics): Update container schematic tests to expect test file using MockStore
+689fc93 refactor(schematics): Revert change to Store TestBed init

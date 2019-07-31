@@ -1,1 +1,1 @@
-b088215 refactor(schematics): use lowercase enum and update default to be integration
+d713cbe chore: add integration files to Bazel build configuration

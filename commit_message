@@ -1,1 +1,1 @@
-fc88259 docs: review comments
+fdf26d62 docs: removed unnecessary 'Effect' decorator import and replaced it with the required 'createEffect' function.

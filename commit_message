@@ -1,1 +1,1 @@
-fdf26d62 docs: removed unnecessary 'Effect' decorator import and replaced it with the required 'createEffect' function.
+2b84f46 docs: add a description for the diagram

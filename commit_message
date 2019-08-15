@@ -1,1 +1,1 @@
-35a3326 refactor: DRY
+2610268 refactor: revert commit because 0 (number) can be passed as key and negated expression does not cover this case

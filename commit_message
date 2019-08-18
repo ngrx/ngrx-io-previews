@@ -1,1 +1,1 @@
-536ffd8 docs(data) update entity-actions update the entityActionFactory.create examples to adapt the new API and actions.
+98c8b4f docs(store-devtools): add recipe to exclude store-devtools from the build

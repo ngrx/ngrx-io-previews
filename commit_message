@@ -1,1 +1,1 @@
-068ed28 feat(store): replace console error with console warning
+334556c docs(store-devtools): add recipe to exclude store-devtools from the build

@@ -1,1 +1,1 @@
-ace90a5 feat(store): add verbose error message for unprovided feature state in development mode
+068ed28 feat(store): replace console error with console warning

@@ -1,1 +1,1 @@
-235b0da docs: fix verb conjugation typo
+ace90a5 feat(store): add verbose error message for unprovided feature state in development mode

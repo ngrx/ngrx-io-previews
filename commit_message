@@ -1,1 +1,1 @@
-7df6713 Use correct useClass for PersistenceResultHandler
+c77d753 docs: add missing @Injectable() decorator in example

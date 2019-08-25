@@ -1,1 +1,1 @@
-c77d753 docs: add missing @Injectable() decorator in example
+172cdac fix(data): set action input as Action type instead of EntityAction

@@ -1,1 +1,1 @@
-172cdac fix(data): set action input as Action type instead of EntityAction
+52e388e docs: Use correct useClass for PersistenceResultHandler

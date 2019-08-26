@@ -1,1 +1,1 @@
-96d5e9a refactor(data): use createEffect function instead of decorator
+ca9f9bb docs(store): Add warning notes for AOT error and add solution of creating injection token

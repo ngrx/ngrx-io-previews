@@ -1,1 +1,1 @@
-52e388e docs: Use correct useClass for PersistenceResultHandler
+36f8488 feat(store): add unit test for isDevMode condition

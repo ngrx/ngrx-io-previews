@@ -1,1 +1,1 @@
-2eaa022 refactor(data): replace remaining @Effect by createEffect
+cdded0d fix(schematics): fixed the schematics/action spec template

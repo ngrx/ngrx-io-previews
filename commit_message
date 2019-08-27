@@ -1,1 +1,1 @@
-ca9f9bb docs(store): Add warning notes for AOT error and add solution of creating injection token
+45b8791 fix(store): add DefaultProjectorFn to public API

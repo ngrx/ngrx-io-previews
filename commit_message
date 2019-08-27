@@ -1,1 +1,1 @@
-45b8791 fix(store): add DefaultProjectorFn to public API
+8de7526 ci: fix filters on tags for publishing to npm and deployment of docs

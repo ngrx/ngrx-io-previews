@@ -1,1 +1,1 @@
-cdded0d fix(schematics): fixed the schematics/action spec template
+f9e93ef fix(store): should not run schematics when not using named imports

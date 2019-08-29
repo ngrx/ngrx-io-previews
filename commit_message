@@ -1,1 +1,1 @@
-b86dc48 docs(stire): export wrapped counterReducer to avoid AOT compile error
+d065a55 fix(schematics): added tests for checking the action spec content

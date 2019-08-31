@@ -1,1 +1,1 @@
-354d6db docs(store): add note to use resetSelectors to prevent cross-test state bleeding
+ce2c2b6 fix(store): improve consistency of memoized selector result when projection fails

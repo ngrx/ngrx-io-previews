@@ -1,1 +1,1 @@
-1991c7d fix(store): improve consistency of memoized selector result when projection fails
+e8aebae bug(store)

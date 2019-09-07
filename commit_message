@@ -1,1 +1,1 @@
-e2ef7ad docs(store): factory function has to return a reducer instead of an array.
+826254f docs(store): factory function has to return a reducer instead of an array.

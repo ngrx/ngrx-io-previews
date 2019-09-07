@@ -1,1 +1,1 @@
-34e0243 build: add router as dependency
+e2ef7ad docs(store): factory function has to return a reducer instead of an array.

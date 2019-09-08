@@ -1,1 +1,1 @@
-826254f docs(store): factory function has to return a reducer instead of an array.
+d6af3ca fix(schematics): refactored the imports structure

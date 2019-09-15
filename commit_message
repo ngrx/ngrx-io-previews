@@ -1,1 +1,1 @@
-4616b2e docs: add some guidance on when to use strict serializability for actions in guide and API docs
+de225f9 feat(selectors): another implementation of selectors with cache -createCachedSelector

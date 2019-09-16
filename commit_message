@@ -1,1 +1,1 @@
-de225f9 feat(selectors): another implementation of selectors with cache -createCachedSelector
+c607c80 docs: update alert about runtime checks

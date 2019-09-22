@@ -1,1 +1,1 @@
-d16456f docs(data): replace ngrx-data with @ngrx/data
+882fc37 docs(data): update refs to EntityReducerFactory Closes #2126

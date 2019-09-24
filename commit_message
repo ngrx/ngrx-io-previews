@@ -1,1 +1,1 @@
-ddaa582 docs(data): selectors Closes #2124
+685cb32 compose reducer on the fly instead of storing reducer array

@@ -1,1 +1,1 @@
-15c6e63 docs(store): document new behavior of createReducer for multiple actions of the same type
+07f53b3 fix(schematics): improve error message when no project can be determined

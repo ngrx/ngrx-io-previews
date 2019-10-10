@@ -1,5 +1,0 @@
-{
-  "id": "events",
-  "title": "Events",
-  "contents": "\n\n\n\n<div class=\"content\">\n<header class=\"marketing-banner\">\n  <h1 class=\"banner-headline no-toc no-anchor\" id=\"events\">Events</h1>\n</header>\n<article>\n    <aio-event-list></aio-event-list>\n</article>\n\n</div>\n\n<!-- links to this doc:\n-->\n<!-- links from this doc:\n-->"
-}

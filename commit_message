@@ -1,1 +1,1 @@
-fa218a7 fix(effects): dispatch init action once
+cf6f06c fix failing test caused by internal toActions

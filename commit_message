@@ -1,1 +1,1 @@
-3151941 introduce EffectPropertyKey type
+0bb6d2e refactor(effects): Refactor types in effects, expose metadata key for createEffect

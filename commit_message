@@ -1,1 +1,1 @@
-c13aab5 $ refactor(effects): prepare for TS 3.5
+f1d42d5 feat(effects): createEffect returns specific type for dispatch false

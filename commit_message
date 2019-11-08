@@ -1,1 +1,1 @@
-4020a16 feat(schematics): update Effect schematics in createEffect function to unwrap and return actions stream (#2226)
+82a3a57 feat(effects): add injection token to EffectsModule.forFeature

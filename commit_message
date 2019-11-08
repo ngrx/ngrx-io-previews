@@ -1,1 +1,1 @@
-92d81a7 Update modules/effects/src/index.ts
+4020a16 feat(schematics): update Effect schematics in createEffect function to unwrap and return actions stream (#2226)

@@ -1,1 +1,1 @@
-cfd397c fix(schematics): migrate spec to skipTest to be in line with Angular CLI
+f8af310 refactor(schematics): migrate from styleext to style

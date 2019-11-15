@@ -1,1 +1,1 @@
-ada8b10 docs(effects): add default value for minimal flag
+e133946 fix(store): added noop for addFeature in MockReducerManager

@@ -1,1 +1,1 @@
-a8089ac docs(component): initial setup
+65b785a fix(store-devtools): correcting my fix by making sure it works for arrays of strings

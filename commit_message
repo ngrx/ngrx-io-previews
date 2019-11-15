@@ -1,1 +1,1 @@
-b66d369 fix(store): added noop for addFeature in MockReducerManager
+24be6c6 Update mock_reducer_manager.ts

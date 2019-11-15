@@ -1,1 +1,1 @@
-82bb972 fix(store): added noop for addFeature in MockReducerManager
+9b11ebc feat(store): enable immutability checks by default

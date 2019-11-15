@@ -1,1 +1,1 @@
-e133946 fix(store): added noop for addFeature in MockReducerManager
+b66d369 fix(store): added noop for addFeature in MockReducerManager

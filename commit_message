@@ -1,1 +1,1 @@
-7110401 refactor(schematics): migrate from styleext to style
+84e99c3 feat(store): add clearResult to reset a mock selector

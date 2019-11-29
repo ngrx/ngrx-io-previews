@@ -1,1 +1,1 @@
-1005064 docs(router-store): Change to new create action route actions
+c7df59d fix(effects): handle throw in error handler

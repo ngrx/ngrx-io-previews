@@ -1,1 +1,1 @@
-e84bb1a test(effects): tests for handleError throw support
+bc6f38e Merge branch 'bugfix/resubscribe-handle-error-handler-that-throws' of https://github.com/lydemann/platform into bugfix/resubscribe-handle-error-handler-that-throws

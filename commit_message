@@ -1,1 +1,1 @@
-bc6f38e Merge branch 'bugfix/resubscribe-handle-error-handler-that-throws' of https://github.com/lydemann/platform into bugfix/resubscribe-handle-error-handler-that-throws
+b7f9b56 fix(effects): support resubscribe if throw in error handler

@@ -1,1 +1,1 @@
-aab39ff fix(effects): support resubscribe if throw in error handler
+125d79c docs(router-store): Use the textual order of actions

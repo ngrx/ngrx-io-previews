@@ -1,1 +1,1 @@
-125d79c docs(router-store): Use the textual order of actions
+213dace refactor(router-store): Change to generic router serialize snapshot

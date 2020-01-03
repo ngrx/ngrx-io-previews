@@ -1,1 +1,1 @@
-f36a58b fix(store): replace insufficient type Creator with TypedCreator
+8a28add fix(store): allow union of types in props

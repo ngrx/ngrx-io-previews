@@ -1,1 +1,1 @@
-ab5254a fix(store): allow union of types in props
+7ed56c8 Remove DisallowArraysAndTypeProperty and create Props

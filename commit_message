@@ -1,1 +1,1 @@
-7ed56c8 Remove DisallowArraysAndTypeProperty and create Props
+6fca439 remove strictPropertyInitialization in tsconfig-build

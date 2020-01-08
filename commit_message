@@ -1,1 +1,1 @@
-6fca439 remove strictPropertyInitialization in tsconfig-build
+47efedc test(component): update usage of TestBed.get to TestBed.inject

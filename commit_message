@@ -1,1 +1,1 @@
-4f9f5ee test(component): reverted unnecessary testing changes
+6adf6eb test(component): update usage of TestBed.get to TestBed.inject

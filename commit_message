@@ -1,1 +1,1 @@
-900c2be fix(store): add not allowed check to action creator config
+8348155 test(component): update usage of TestBed.get to TestBed.inject

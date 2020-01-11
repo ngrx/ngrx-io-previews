@@ -1,1 +1,1 @@
-8348155 test(component): update usage of TestBed.get to TestBed.inject
+36ae080 fix(effects): fix specs for ng-add tests

@@ -1,1 +1,1 @@
-ce04423 feat(effects): make resubscription handler customizable
+3789184 fix failing test caused by internal toActions

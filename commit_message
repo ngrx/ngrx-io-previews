@@ -1,1 +1,1 @@
-f1f2628 fix(store): improve type-safety for selector's projector func parameters
+ac9231e feat(effects): add user provided effects to EffectsModule

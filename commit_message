@@ -1,1 +1,1 @@
-2c5f7c1 feat(effects): add user provided effects to EffectsModule
+f1f2628 fix(store): improve type-safety for selector's projector func parameters

@@ -1,1 +1,1 @@
-61695e5 refactor(effects): lifecycle methods guards
+84dca6a fix(store): improve type-safety for selector's projector func parameters

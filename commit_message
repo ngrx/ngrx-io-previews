@@ -1,1 +1,1 @@
-6a240c0 feat(effects): make resubscription handler customizable
+693161b refactor(EffectsErrorHandler): Make injected symbol EFFECTS_ERROR_HANDLER non optional, moving provider up to EffectsModule

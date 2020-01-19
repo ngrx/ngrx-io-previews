@@ -1,1 +1,1 @@
-b9e7316 fix(store): improve type-safety for selector's projector func parameters
+691189f refactor(example): use featurekey in all places

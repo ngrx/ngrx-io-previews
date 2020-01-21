@@ -1,1 +1,1 @@
-49719c5 feat(router): enabling MinimalRouterStateSerializer by default in router setup module
+a6a237e refactor(example): remove explicit typing in selectors

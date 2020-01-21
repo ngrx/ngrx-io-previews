@@ -1,1 +1,1 @@
-339b78d feat(store): add generic type override to MockStore
+49719c5 feat(router): enabling MinimalRouterStateSerializer by default in router setup module

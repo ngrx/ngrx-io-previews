@@ -1,1 +1,1 @@
-78cefbb feat(store): testing - expose MockStore provider
+c124967 fix(data): Allow random selectors in entitySelectors$

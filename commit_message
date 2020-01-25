@@ -1,1 +1,1 @@
-f2e40f2 refactor(EffectsErrorHandler): Extract to separate file, rename default handler to describe purpose better.
+1cd49cb feat(Effects): Add migration for breaking change that renames effects error handler config key

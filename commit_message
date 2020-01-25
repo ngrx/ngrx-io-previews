@@ -1,1 +1,1 @@
-674a7c5 refactor(EffectsErrorHandler): Extract to separate file, rename default handler to describe purpose better.
+25d8ad7 refactor(EffectsErrorHandler): Extract to separate file, rename default handler to describe purpose better.

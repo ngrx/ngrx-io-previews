@@ -1,1 +1,1 @@
-f717336 feat(effects): add user provided effects to EffectsModule
+674a7c5 refactor(EffectsErrorHandler): Extract to separate file, rename default handler to describe purpose better.

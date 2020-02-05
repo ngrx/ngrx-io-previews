@@ -1,1 +1,1 @@
-f27cb28 Merge branch 'master' of https://github.com/elvisun/platform
+ebe6d01 feat(Entity) Deprecate addAll and rename it to setAll

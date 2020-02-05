@@ -1,1 +1,1 @@
-ebe6d01 feat(Entity) Deprecate addAll and rename it to setAll
+f8e46c2 feat(Entity) Remove addAllMutably and merge it with setAllMutably

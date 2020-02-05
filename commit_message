@@ -1,1 +1,1 @@
-f8e46c2 feat(Entity) Remove addAllMutably and merge it with setAllMutably
+2ecd958 feat(Entity) Update semantic template to use setAll instead of addAll

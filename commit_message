@@ -1,1 +1,1 @@
-2ecd958 feat(Entity) Update semantic template to use setAll instead of addAll
+a685665 fix: minor code cleanup to fix build/TypeScript issues

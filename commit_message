@@ -1,1 +1,1 @@
-02bd8d7 feat(store): ignore ngrx actions for runtime checks
+04658a5 fix(data): make undoMany remove tracking changes in changeState (#2346)

@@ -1,1 +1,1 @@
-67f3157 fix(data): mergeQuerySet uses mergeStrategy with default PreserveChanges (#2368)
+5dd7592 refactor(example): use barrel import for GoogleBooksService

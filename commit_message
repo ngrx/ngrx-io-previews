@@ -1,1 +1,1 @@
-5dd7592 refactor(example): use barrel import for GoogleBooksService
+367722b feat(effects): limit retries to 10 by default

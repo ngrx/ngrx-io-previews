@@ -1,1 +1,1 @@
-29f1a41 docs(store): recipe for adding NgRx to existing application
+789419d fix(store/testing): provide the same instance of MockStore

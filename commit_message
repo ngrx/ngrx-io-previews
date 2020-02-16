@@ -1,1 +1,1 @@
-2b127aa fix(data): make mergeServerUpserts change state immutably (#2374)
+4a71e7e test(data): add entity action guard tests

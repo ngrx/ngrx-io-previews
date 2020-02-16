@@ -1,1 +1,1 @@
-381f98e build: exclude component package from publishing script (#2350)
+4059968 feat: add @ngrx/component package to platform

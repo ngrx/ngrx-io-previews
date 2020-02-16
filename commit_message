@@ -1,1 +1,1 @@
-4505f8a docs: proposal for window fix in tests
+2238bae refactor(example): replace TestBed.get with TestBed.inject

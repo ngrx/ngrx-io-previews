@@ -1,1 +1,1 @@
-eb386e0 feat: update @ngrx/component package to platform
+381f98e build: exclude component package from publishing script (#2350)

@@ -1,1 +1,1 @@
-0605875 Update projects/example-app/src/app/core/services/google-books.service.spec.ts
+448e194 refactor(example): use barrel import for GoogleBooksService

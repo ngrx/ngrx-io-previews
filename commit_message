@@ -1,1 +1,1 @@
-0faa6d9 fix(ngrx/data): correct AppEntityServices example in ngrx data doc page
+56046b4 fix(): fix a typo in app reducers - showSidenav selector

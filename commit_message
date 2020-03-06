@@ -1,1 +1,1 @@
-cf32c9a feat: add disable forRoot() guard check
+0525f0b feat(effects): expose EffectsRunner in public api

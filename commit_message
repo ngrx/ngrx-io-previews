@@ -1,1 +1,1 @@
-1b48ebc fix: implement proper global this handling
+2a61bae fix: implement better global this handling

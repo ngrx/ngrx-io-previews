@@ -1,1 +1,1 @@
-d91742f fix(example): optimistically add/remove book from collection
+4faa85b fix(data): mergeQuerySet uses mergeStrategy

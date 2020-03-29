@@ -1,1 +1,1 @@
-af0e3ec Update projects/ngrx.io/content/guide/component/index.md
+e2ea45c fix(component): refactored tests to use TestScheduler, removed package

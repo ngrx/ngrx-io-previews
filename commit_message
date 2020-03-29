@@ -1,1 +1,1 @@
-e2ea45c fix(component): refactored tests to use TestScheduler, removed package
+bed2d29 fix(component): implemented observable matcher function for jest, refactored tests

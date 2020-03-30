@@ -1,1 +1,1 @@
-351f449 fix(component): updated docs and comments, removed unused functions
+10f68e0 docs(data): change 'enableChangeTracking' reference to `noChangeTracking`

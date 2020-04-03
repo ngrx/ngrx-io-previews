@@ -1,1 +1,1 @@
-b9ee2ff build(package): update minimal yarn to v1.13.0
+7494cef fix(toObservableValue): accommodate all observable inputs

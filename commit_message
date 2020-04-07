@@ -1,1 +1,1 @@
-ccccd83 fix(component) replaced NEVER with EMPTY as switchMap can't complete if outer observable is still open
+e8726b4 fix(component) added comments to the commented out code and referenced the mentioned PR #2456

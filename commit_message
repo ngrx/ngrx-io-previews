@@ -1,1 +1,1 @@
-e6f04d5 fix(component) used ObservableInput to cover all observable types
+a97c25f fix(component) more specific typing, removed unused import

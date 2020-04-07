@@ -1,1 +1,1 @@
-e8726b4 fix(component) added comments to the commented out code and referenced the mentioned PR #2456
+e6f04d5 fix(component) used ObservableInput to cover all observable types

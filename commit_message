@@ -1,1 +1,1 @@
-314a177 fix(component) cover case where startWith and first value are the same
+c21fa52 fix(component) remove startWith and use BehaviourSubject

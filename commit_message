@@ -1,1 +1,1 @@
-869406a fix(component) fixed push tests, improved number of renderings
+fa6cdf8 docs(entity): Call setAll instead of deprecated addAll

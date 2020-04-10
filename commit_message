@@ -1,1 +1,1 @@
-fa6cdf8 docs(entity): Call setAll instead of deprecated addAll
+6b1eadd docs(entity): Revert change to old documentation, call setAll in new documentation

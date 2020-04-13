@@ -1,1 +1,1 @@
-87cbcf7 fix(component) refactor exposed operators folder structure and added render Changes
+e008f3b fix(component) removed ngZone dependency from code base

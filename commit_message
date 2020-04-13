@@ -1,1 +1,1 @@
-e008f3b fix(component) removed ngZone dependency from code base
+7959731 fix(component) moved logic for strategy mapping into operator

@@ -1,1 +1,1 @@
-0e13fa7 fix(store): ignore Ivy in runtime checks Closes #2404
+5aecd1d fix(component) refactored check functions for zone and view engine

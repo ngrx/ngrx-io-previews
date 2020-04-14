@@ -1,1 +1,1 @@
-3c242c0 fix(component) comment out strategy tests
+b4e8670 fix(store): ignore Ivy in runtime checks Closes #2404

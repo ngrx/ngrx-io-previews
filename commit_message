@@ -1,1 +1,1 @@
-d40a908 ci: make saving of cache keys consistent
+82bc1ea fix(entity): selectors should return MemoizedSelector

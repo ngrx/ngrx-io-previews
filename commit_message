@@ -1,1 +1,1 @@
-0c15a79 refactor(schematics): replace deprecated `TestBed.get`
+6b22e9e refactor: replace deprecated `TestBed.get`

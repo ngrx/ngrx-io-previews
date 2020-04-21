@@ -1,1 +1,1 @@
-6b22e9e refactor: replace deprecated `TestBed.get`
+b35f389 fix(entity): selectors should return MemoizedSelector

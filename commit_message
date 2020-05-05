@@ -1,1 +1,1 @@
-521e3a5 removed tests, fixed naming
+5a25266 fix(schematics): components should inject the store without generic

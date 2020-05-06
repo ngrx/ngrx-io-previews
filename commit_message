@@ -1,1 +1,1 @@
-5a25266 fix(schematics): components should inject the store without generic
+09d57ad feat(store): adding an internal setting _ngrxMockEnvironment

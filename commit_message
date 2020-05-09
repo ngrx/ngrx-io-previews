@@ -1,1 +1,1 @@
-0dcac87 added tests from https://github.com/BioPhoton/platform/pull/1/files#diff-3686740e0d9b703c33b12f66c571e4bdR203 created by @alex-okrushko
+7a94b55 feat(store): add runtime check for action type uniqueness

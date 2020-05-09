@@ -1,1 +1,1 @@
-27fc7b7 removed tests, fixed naming
+302e37f feat(store): add runtime check for action type uniqueness

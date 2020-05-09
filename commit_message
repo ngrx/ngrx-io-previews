@@ -1,1 +1,1 @@
-7a94b55 feat(store): add runtime check for action type uniqueness
+3fd9c3f adopted tests to fit new implementation

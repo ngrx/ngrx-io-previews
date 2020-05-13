@@ -1,1 +1,1 @@
-abbea3c docs(store): add strictActionTypeUniqueness check
+3d1b87b fix(store): remove the isDev check

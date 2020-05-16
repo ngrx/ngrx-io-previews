@@ -1,1 +1,1 @@
-3d1b87b fix(store): remove the isDev check
+1702674 feat(component-store): initialization + updater/setState

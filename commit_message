@@ -1,1 +1,1 @@
-cf039ac build: Add bazel-jest that works with tests that do not require TestBed
+86b63e6 format bazel files

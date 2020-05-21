@@ -1,1 +1,1 @@
-a13646c Correct the typo in tools/defaults.bzl
+5c31542 fix(schematics): import or export ReactiveComponentModule when needed

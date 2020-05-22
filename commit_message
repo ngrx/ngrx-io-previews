@@ -1,1 +1,1 @@
-8e799ae fix(schematics): use x-deprecated in schema.json
+28ff098 feat(effect): catch action creators being returned in effect without ()

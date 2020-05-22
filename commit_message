@@ -1,1 +1,1 @@
-28ff098 feat(effect): catch action creators being returned in effect without ()
+06b371c style: run yarn prettier for the entire codebase

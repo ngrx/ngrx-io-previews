@@ -1,1 +1,1 @@
-165793f fix(store): remove circular dependency for mock import
+e980ab5 add a test for combining 4 selectors

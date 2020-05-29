@@ -1,1 +1,1 @@
-fbec7e5 Update docs.md
+9651f5b fix(component): detect zone.js by using runOutsideAngular()

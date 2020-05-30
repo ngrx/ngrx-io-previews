@@ -1,1 +1,1 @@
-9651f5b fix(component): detect zone.js by using runOutsideAngular()
+d95ac5b chore: run unit tests with browser for docs-app

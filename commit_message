@@ -1,1 +1,1 @@
-25f68d4 chore: fix lint check and cache node_modules for docs preview
+3a72570 fix(example-app): fixed the conditionals in the auth system of example-app

@@ -1,1 +1,1 @@
-6d55e2f build: fix path resolution with library dependencies
+b9b4253 fix(component-store): export EffectReturnFn interface

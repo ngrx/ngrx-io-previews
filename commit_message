@@ -1,1 +1,1 @@
-49038018 fix(component): nits from review
+e8aa70a fix(component): detect zone.js by using runOutsideAngular()

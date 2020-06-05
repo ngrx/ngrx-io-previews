@@ -1,1 +1,1 @@
-e8aa70a fix(component): detect zone.js by using runOutsideAngular()
+1c34a93 refactor(component-store): make Closure Compiler happy with Error

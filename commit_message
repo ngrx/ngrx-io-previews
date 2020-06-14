@@ -1,1 +1,1 @@
-9851f603 fix(component): removed ivy checks as obsolete
+b33a54ef feat(component-store): make CS compatible with ViewEngine

@@ -1,1 +1,1 @@
-bc205933 fix(component): removed ivy checks as obsolete
+5730a123 fix(router-store): also handle routerNavigated action in reducer

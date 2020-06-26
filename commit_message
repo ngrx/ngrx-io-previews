@@ -1,1 +1,1 @@
-5730a123 fix(router-store): also handle routerNavigated action in reducer
+1e8b294d docs: avoid nested pipe

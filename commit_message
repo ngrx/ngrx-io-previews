@@ -1,1 +1,1 @@
-9575b31a chore: remove fdescribe from unit tests
+bb1379ab fix(router-store): also handle routerNavigated action in reducer

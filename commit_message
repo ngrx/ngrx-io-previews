@@ -1,1 +1,1 @@
-bb1379ab fix(router-store): also handle routerNavigated action in reducer
+129dfac3 chore: remove globalThis leftovers

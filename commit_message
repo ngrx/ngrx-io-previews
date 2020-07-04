@@ -1,1 +1,1 @@
-c89844a7 build(component-store): add schematics-core path
+a21ef49d feat(component-store): remove debounceSync for single selectors

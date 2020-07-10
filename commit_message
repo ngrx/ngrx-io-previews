@@ -1,1 +1,1 @@
-b65fca49 docs(store): update createReducer docs to make its usage more clear WRT View Engine AOT
+0acbf845 docs: Changed the number of runtime checks from 5 to 6

@@ -1,1 +1,1 @@
-38c0c9db chore: update schematics tests to use async await
+656729fc refactor(store): export variables should be const

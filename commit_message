@@ -1,1 +1,1 @@
-8e9b6044 Doc: update RxJS pipeable operators link to correct link
+3532a853 docs: remove usage of select operator in favor of store.select

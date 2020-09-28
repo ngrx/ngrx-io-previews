@@ -1,1 +1,1 @@
-f33652e7 docs(effects): update steps
+97313a87 fix(store): prevent unexpected behavior of {} as a props type

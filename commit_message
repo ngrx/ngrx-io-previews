@@ -1,1 +1,1 @@
-97313a87 fix(store): prevent unexpected behavior of {} as a props type
+9a48ccea add type test for empty object

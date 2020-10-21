@@ -1,1 +1,1 @@
-2f19c124 fix(entity): Improve typing of EntityAdapter.getSelectors()
+08d5a01e fix(store): Correct types for SelectorFactoryConfig

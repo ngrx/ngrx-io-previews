@@ -1,1 +1,1 @@
-ce217ec2 feat(store): use provideMockStore outside of the TestBed
+89238cd0 feat(effects): add lazy withLatestFrom operator

@@ -1,1 +1,1 @@
-63a4cb18 feat(effects): use provideMockActions outside of the TestBed
+306378af update to support passing single observable in factory

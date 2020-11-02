@@ -1,1 +1,1 @@
-dc6fe5f7 feat(router-store): add selectParamFromRouterTree selector
+db5af842 refactor(example-app): use selectRouteData in RouterEffects

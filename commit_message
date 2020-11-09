@@ -1,1 +1,1 @@
-3b50740d fix(store): added noop for all methods in MockReducerManager
+93d567a0 add getMockStore; improve provideMockStore

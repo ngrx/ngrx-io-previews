@@ -1,1 +1,1 @@
-93d567a0 add getMockStore; improve provideMockStore
+f0894684 cr changes: use withLatestFrom lazily

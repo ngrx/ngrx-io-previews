@@ -1,1 +1,1 @@
-f0894684 cr changes: use withLatestFrom lazily
+491bd12e docs(store): Shorten usage example for combineReducers

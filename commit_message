@@ -1,1 +1,1 @@
-4724cd81 chore: remove redudant/legacy scripts
+2c2fc556 use setState in patchState; remove isInitialized check; improve test case with callback

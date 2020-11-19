@@ -1,1 +1,1 @@
-2c2fc556 use setState in patchState; remove isInitialized check; improve test case with callback
+d44ebb37 docs(store): improve example in store tutorial

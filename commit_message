@@ -1,1 +1,1 @@
-b25ce4fe feat: introduce @ngrx/selectors package
+a373a89a feat(data): Add DefaultDataServiceConfig to EntityDataModuleConfig

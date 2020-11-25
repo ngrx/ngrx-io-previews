@@ -1,1 +1,1 @@
-a373a89a feat(data): Add DefaultDataServiceConfig to EntityDataModuleConfig
+cc60fe41 feat(effects): add lazy concatLatestFrom operator for TS 3.9

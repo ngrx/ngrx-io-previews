@@ -1,1 +1,1 @@
-b107e465 docs(resources): add book to resources
+25a40f92 docs(component-store): `this` was missing to access moviesStore

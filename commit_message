@@ -1,1 +1,1 @@
-25a40f92 docs(component-store): `this` was missing to access moviesStore
+76c3f3bd docs(component-store): add patchState description with example

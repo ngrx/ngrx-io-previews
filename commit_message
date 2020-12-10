@@ -1,1 +1,1 @@
-fd6ec34f docs(component-store): add docs for tapResponse operator
+6d6b32a7 refactor(component): replace deprecated async with waitForAsync

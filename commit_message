@@ -1,1 +1,1 @@
-a7e3cbf1 feat(store): add object-style StoreModule.forFeature overload
+2c47d70a feat(router-store): add selectParamFromRouterState selector

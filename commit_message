@@ -1,1 +1,1 @@
-52f3d389 chore(ngrx.io): update to Angular 11
+a7e3cbf1 feat(store): add object-style StoreModule.forFeature overload

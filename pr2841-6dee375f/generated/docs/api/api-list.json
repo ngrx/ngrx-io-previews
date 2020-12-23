@@ -1,0 +1,2353 @@
+[
+  {
+    "name": "store",
+    "title": "store",
+    "path": "api/store",
+    "items": [
+      {
+        "name": "action",
+        "title": "Action",
+        "path": "api/store/Action",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "actioncreator",
+        "title": "ActionCreator",
+        "path": "api/store/ActionCreator",
+        "docType": "type-alias",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "actionreducer",
+        "title": "ActionReducer",
+        "path": "api/store/ActionReducer",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "actionreducerfactory",
+        "title": "ActionReducerFactory",
+        "path": "api/store/ActionReducerFactory",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "actionreducermap",
+        "title": "ActionReducerMap",
+        "path": "api/store/ActionReducerMap",
+        "docType": "type-alias",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "actionssubject",
+        "title": "ActionsSubject",
+        "path": "api/store/ActionsSubject",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "actiontype",
+        "title": "ActionType",
+        "path": "api/store/ActionType",
+        "docType": "type-alias",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "combinereducers",
+        "title": "combineReducers",
+        "path": "api/store/combineReducers",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "compose",
+        "title": "compose",
+        "path": "api/store/compose",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "createaction",
+        "title": "createAction",
+        "path": "api/store/createAction",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "createfeatureselector",
+        "title": "createFeatureSelector",
+        "path": "api/store/createFeatureSelector",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "createreducer",
+        "title": "createReducer",
+        "path": "api/store/createReducer",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "createreducerfactory",
+        "title": "createReducerFactory",
+        "path": "api/store/createReducerFactory",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "createselector",
+        "title": "createSelector",
+        "path": "api/store/createSelector",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "createselectorfactory",
+        "title": "createSelectorFactory",
+        "path": "api/store/createSelectorFactory",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "creator",
+        "title": "Creator",
+        "path": "api/store/Creator",
+        "docType": "type-alias",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "defaultmemoize",
+        "title": "defaultMemoize",
+        "path": "api/store/defaultMemoize",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "defaultprojectorfn",
+        "title": "DefaultProjectorFn",
+        "path": "api/store/DefaultProjectorFn",
+        "docType": "type-alias",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "defaultstatefn",
+        "title": "defaultStateFn",
+        "path": "api/store/defaultStateFn",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "feature_reducers",
+        "title": "FEATURE_REDUCERS",
+        "path": "api/store/FEATURE_REDUCERS",
+        "docType": "const",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "featureslice",
+        "title": "FeatureSlice",
+        "path": "api/store/FeatureSlice",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "init",
+        "title": "INIT",
+        "path": "api/store/INIT",
+        "docType": "const",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "initial_reducers",
+        "title": "INITIAL_REDUCERS",
+        "path": "api/store/INITIAL_REDUCERS",
+        "docType": "const",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "initial_state",
+        "title": "INITIAL_STATE",
+        "path": "api/store/INITIAL_STATE",
+        "docType": "const",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "isngrxmockenvironment",
+        "title": "isNgrxMockEnvironment",
+        "path": "api/store/isNgrxMockEnvironment",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "memoizedprojection",
+        "title": "MemoizedProjection",
+        "path": "api/store/MemoizedProjection",
+        "docType": "type-alias",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "memoizedselector",
+        "title": "MemoizedSelector",
+        "path": "api/store/MemoizedSelector",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "memoizedselectorwithprops",
+        "title": "MemoizedSelectorWithProps",
+        "path": "api/store/MemoizedSelectorWithProps",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "memoizefn",
+        "title": "MemoizeFn",
+        "path": "api/store/MemoizeFn",
+        "docType": "type-alias",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "meta_reducers",
+        "title": "META_REDUCERS",
+        "path": "api/store/META_REDUCERS",
+        "docType": "const",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "metareducer",
+        "title": "MetaReducer",
+        "path": "api/store/MetaReducer",
+        "docType": "type-alias",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "notallowedcheck",
+        "title": "NotAllowedCheck",
+        "path": "api/store/NotAllowedCheck",
+        "docType": "type-alias",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "on",
+        "title": "On",
+        "path": "api/store/On",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "on",
+        "title": "on",
+        "path": "api/store/on",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "props",
+        "title": "Props",
+        "path": "api/store/Props",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "props",
+        "title": "props",
+        "path": "api/store/props",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "reducer_factory",
+        "title": "REDUCER_FACTORY",
+        "path": "api/store/REDUCER_FACTORY",
+        "docType": "const",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "reducermanager",
+        "title": "ReducerManager",
+        "path": "api/store/ReducerManager",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "reducermanagerdispatcher",
+        "title": "ReducerManagerDispatcher",
+        "path": "api/store/ReducerManagerDispatcher",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "reducerobservable",
+        "title": "ReducerObservable",
+        "path": "api/store/ReducerObservable",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "reducestate",
+        "title": "reduceState",
+        "path": "api/store/reduceState",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "resultmemoize",
+        "title": "resultMemoize",
+        "path": "api/store/resultMemoize",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "rootstoreconfig",
+        "title": "RootStoreConfig",
+        "path": "api/store/RootStoreConfig",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "runtimechecks",
+        "title": "RuntimeChecks",
+        "path": "api/store/RuntimeChecks",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "scannedactionssubject",
+        "title": "ScannedActionsSubject",
+        "path": "api/store/ScannedActionsSubject",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "select",
+        "title": "select",
+        "path": "api/store/select",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "selector",
+        "title": "Selector",
+        "path": "api/store/Selector",
+        "docType": "type-alias",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "selectorwithprops",
+        "title": "SelectorWithProps",
+        "path": "api/store/SelectorWithProps",
+        "docType": "type-alias",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "setngrxmockenvironment",
+        "title": "setNgrxMockEnvironment",
+        "path": "api/store/setNgrxMockEnvironment",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "state",
+        "title": "State",
+        "path": "api/store/State",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "stateobservable",
+        "title": "StateObservable",
+        "path": "api/store/StateObservable",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "store",
+        "title": "Store",
+        "path": "api/store/Store",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "store_features",
+        "title": "STORE_FEATURES",
+        "path": "api/store/STORE_FEATURES",
+        "docType": "const",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "storeconfig",
+        "title": "StoreConfig",
+        "path": "api/store/StoreConfig",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "storefeaturemodule",
+        "title": "StoreFeatureModule",
+        "path": "api/store/StoreFeatureModule",
+        "docType": "ngmodule",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "storemodule",
+        "title": "StoreModule",
+        "path": "api/store/StoreModule",
+        "docType": "ngmodule",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "storerootmodule",
+        "title": "StoreRootModule",
+        "path": "api/store/StoreRootModule",
+        "docType": "ngmodule",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "union",
+        "title": "union",
+        "path": "api/store/union",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "update",
+        "title": "UPDATE",
+        "path": "api/store/UPDATE",
+        "docType": "const",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "user_provided_meta_reducers",
+        "title": "USER_PROVIDED_META_REDUCERS",
+        "path": "api/store/USER_PROVIDED_META_REDUCERS",
+        "docType": "const",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "user_runtime_checks",
+        "title": "USER_RUNTIME_CHECKS",
+        "path": "api/store/USER_RUNTIME_CHECKS",
+        "docType": "const",
+        "stability": "stable",
+        "securityRisk": false
+      }
+    ]
+  },
+  {
+    "name": "store/testing",
+    "title": "store/testing",
+    "path": "api/store/testing",
+    "items": [
+      {
+        "name": "getmockstore",
+        "title": "getMockStore",
+        "path": "api/store/testing/getMockStore",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "mockreducermanager",
+        "title": "MockReducerManager",
+        "path": "api/store/testing/MockReducerManager",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "mockselector",
+        "title": "MockSelector",
+        "path": "api/store/testing/MockSelector",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "mockstate",
+        "title": "MockState",
+        "path": "api/store/testing/MockState",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "mockstore",
+        "title": "MockStore",
+        "path": "api/store/testing/MockStore",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "mockstoreconfig",
+        "title": "MockStoreConfig",
+        "path": "api/store/testing/MockStoreConfig",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "providemockstore",
+        "title": "provideMockStore",
+        "path": "api/store/testing/provideMockStore",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      }
+    ]
+  },
+  {
+    "name": "store-devtools",
+    "title": "store-devtools",
+    "path": "api/store-devtools",
+    "items": [
+      {
+        "name": "devtoolsfeatureoptions",
+        "title": "DevToolsFeatureOptions",
+        "path": "api/store-devtools/DevToolsFeatureOptions",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "initial_options",
+        "title": "INITIAL_OPTIONS",
+        "path": "api/store-devtools/INITIAL_OPTIONS",
+        "docType": "const",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "liftedstate",
+        "title": "LiftedState",
+        "path": "api/store-devtools/LiftedState",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "recompute",
+        "title": "RECOMPUTE",
+        "path": "api/store-devtools/RECOMPUTE",
+        "docType": "const",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "storedevtools",
+        "title": "StoreDevtools",
+        "path": "api/store-devtools/StoreDevtools",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "storedevtoolsconfig",
+        "title": "StoreDevtoolsConfig",
+        "path": "api/store-devtools/StoreDevtoolsConfig",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "storedevtoolsmodule",
+        "title": "StoreDevtoolsModule",
+        "path": "api/store-devtools/StoreDevtoolsModule",
+        "docType": "ngmodule",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "storedevtoolsoptions",
+        "title": "StoreDevtoolsOptions",
+        "path": "api/store-devtools/StoreDevtoolsOptions",
+        "docType": "type-alias",
+        "stability": "stable",
+        "securityRisk": false
+      }
+    ]
+  },
+  {
+    "name": "effects",
+    "title": "effects",
+    "path": "api/effects",
+    "items": [
+      {
+        "name": "act",
+        "title": "act",
+        "path": "api/effects/act",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "actions",
+        "title": "Actions",
+        "path": "api/effects/Actions",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "createeffect",
+        "title": "createEffect",
+        "path": "api/effects/createEffect",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "createeffectmetadata",
+        "title": "CreateEffectMetadata",
+        "path": "api/effects/CreateEffectMetadata",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "defaulteffectserrorhandler",
+        "title": "defaultEffectsErrorHandler",
+        "path": "api/effects/defaultEffectsErrorHandler",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "effect",
+        "title": "Effect",
+        "path": "api/effects/Effect",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "effectconfig",
+        "title": "EffectConfig",
+        "path": "api/effects/EffectConfig",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "effectnotification",
+        "title": "EffectNotification",
+        "path": "api/effects/EffectNotification",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "effects_error_handler",
+        "title": "EFFECTS_ERROR_HANDLER",
+        "path": "api/effects/EFFECTS_ERROR_HANDLER",
+        "docType": "const",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "effectserrorhandler",
+        "title": "EffectsErrorHandler",
+        "path": "api/effects/EffectsErrorHandler",
+        "docType": "type-alias",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "effectsfeaturemodule",
+        "title": "EffectsFeatureModule",
+        "path": "api/effects/EffectsFeatureModule",
+        "docType": "ngmodule",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "effectsmetadata",
+        "title": "EffectsMetadata",
+        "path": "api/effects/EffectsMetadata",
+        "docType": "type-alias",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "effectsmodule",
+        "title": "EffectsModule",
+        "path": "api/effects/EffectsModule",
+        "docType": "ngmodule",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "effectsources",
+        "title": "EffectSources",
+        "path": "api/effects/EffectSources",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "effectsrootmodule",
+        "title": "EffectsRootModule",
+        "path": "api/effects/EffectsRootModule",
+        "docType": "ngmodule",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "effectsrunner",
+        "title": "EffectsRunner",
+        "path": "api/effects/EffectsRunner",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "geteffectsmetadata",
+        "title": "getEffectsMetadata",
+        "path": "api/effects/getEffectsMetadata",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "mergeeffects",
+        "title": "mergeEffects",
+        "path": "api/effects/mergeEffects",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "oftype",
+        "title": "ofType",
+        "path": "api/effects/ofType",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "onidentifyeffects",
+        "title": "OnIdentifyEffects",
+        "path": "api/effects/OnIdentifyEffects",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "oniniteffects",
+        "title": "OnInitEffects",
+        "path": "api/effects/OnInitEffects",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "onruneffects",
+        "title": "OnRunEffects",
+        "path": "api/effects/OnRunEffects",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "root_effects_init",
+        "title": "ROOT_EFFECTS_INIT",
+        "path": "api/effects/ROOT_EFFECTS_INIT",
+        "docType": "const",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "rooteffectsinit",
+        "title": "rootEffectsInit",
+        "path": "api/effects/rootEffectsInit",
+        "docType": "const",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "user_provided_effects",
+        "title": "USER_PROVIDED_EFFECTS",
+        "path": "api/effects/USER_PROVIDED_EFFECTS",
+        "docType": "const",
+        "stability": "stable",
+        "securityRisk": false
+      }
+    ]
+  },
+  {
+    "name": "effects/testing",
+    "title": "effects/testing",
+    "path": "api/effects/testing",
+    "items": [
+      {
+        "name": "providemockactions",
+        "title": "provideMockActions",
+        "path": "api/effects/testing/provideMockActions",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      }
+    ]
+  },
+  {
+    "name": "entity",
+    "title": "entity",
+    "path": "api/entity",
+    "items": [
+      {
+        "name": "comparer",
+        "title": "Comparer",
+        "path": "api/entity/Comparer",
+        "docType": "type-alias",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "createentityadapter",
+        "title": "createEntityAdapter",
+        "path": "api/entity/createEntityAdapter",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "dictionary",
+        "title": "Dictionary",
+        "path": "api/entity/Dictionary",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entityadapter",
+        "title": "EntityAdapter",
+        "path": "api/entity/EntityAdapter",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entitymap",
+        "title": "EntityMap",
+        "path": "api/entity/EntityMap",
+        "docType": "type-alias",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entitymapone",
+        "title": "EntityMapOne",
+        "path": "api/entity/EntityMapOne",
+        "docType": "type-alias",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entitystate",
+        "title": "EntityState",
+        "path": "api/entity/EntityState",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "idselector",
+        "title": "IdSelector",
+        "path": "api/entity/IdSelector",
+        "docType": "type-alias",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "predicate",
+        "title": "Predicate",
+        "path": "api/entity/Predicate",
+        "docType": "type-alias",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "update",
+        "title": "Update",
+        "path": "api/entity/Update",
+        "docType": "type-alias",
+        "stability": "stable",
+        "securityRisk": false
+      }
+    ]
+  },
+  {
+    "name": "router-store",
+    "title": "router-store",
+    "path": "api/router-store",
+    "items": [
+      {
+        "name": "baserouterstorestate",
+        "title": "BaseRouterStoreState",
+        "path": "api/router-store/BaseRouterStoreState",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "default_router_featurename",
+        "title": "DEFAULT_ROUTER_FEATURENAME",
+        "path": "api/router-store/DEFAULT_ROUTER_FEATURENAME",
+        "docType": "const",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "defaultrouterstateserializer",
+        "title": "DefaultRouterStateSerializer",
+        "path": "api/router-store/DefaultRouterStateSerializer",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "getselectors",
+        "title": "getSelectors",
+        "path": "api/router-store/getSelectors",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "minimalactivatedroutesnapshot",
+        "title": "MinimalActivatedRouteSnapshot",
+        "path": "api/router-store/MinimalActivatedRouteSnapshot",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "minimalrouterstateserializer",
+        "title": "MinimalRouterStateSerializer",
+        "path": "api/router-store/MinimalRouterStateSerializer",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "minimalrouterstatesnapshot",
+        "title": "MinimalRouterStateSnapshot",
+        "path": "api/router-store/MinimalRouterStateSnapshot",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "navigationactiontiming",
+        "title": "NavigationActionTiming",
+        "path": "api/router-store/NavigationActionTiming",
+        "docType": "enum",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "router_cancel",
+        "title": "ROUTER_CANCEL",
+        "path": "api/router-store/ROUTER_CANCEL",
+        "docType": "const",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "router_config",
+        "title": "ROUTER_CONFIG",
+        "path": "api/router-store/ROUTER_CONFIG",
+        "docType": "const",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "router_error",
+        "title": "ROUTER_ERROR",
+        "path": "api/router-store/ROUTER_ERROR",
+        "docType": "const",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "router_navigated",
+        "title": "ROUTER_NAVIGATED",
+        "path": "api/router-store/ROUTER_NAVIGATED",
+        "docType": "const",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "router_navigation",
+        "title": "ROUTER_NAVIGATION",
+        "path": "api/router-store/ROUTER_NAVIGATION",
+        "docType": "const",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "router_request",
+        "title": "ROUTER_REQUEST",
+        "path": "api/router-store/ROUTER_REQUEST",
+        "docType": "const",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "routeraction",
+        "title": "RouterAction",
+        "path": "api/router-store/RouterAction",
+        "docType": "type-alias",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "routercancelaction",
+        "title": "RouterCancelAction",
+        "path": "api/router-store/RouterCancelAction",
+        "docType": "type-alias",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "routercancelaction",
+        "title": "routerCancelAction",
+        "path": "api/router-store/routerCancelAction",
+        "docType": "const",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "routercancelpayload",
+        "title": "RouterCancelPayload",
+        "path": "api/router-store/RouterCancelPayload",
+        "docType": "type-alias",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "routererroraction",
+        "title": "RouterErrorAction",
+        "path": "api/router-store/RouterErrorAction",
+        "docType": "type-alias",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "routererroraction",
+        "title": "routerErrorAction",
+        "path": "api/router-store/routerErrorAction",
+        "docType": "const",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "routererrorpayload",
+        "title": "RouterErrorPayload",
+        "path": "api/router-store/RouterErrorPayload",
+        "docType": "type-alias",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "routernavigatedaction",
+        "title": "RouterNavigatedAction",
+        "path": "api/router-store/RouterNavigatedAction",
+        "docType": "type-alias",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "routernavigatedaction",
+        "title": "routerNavigatedAction",
+        "path": "api/router-store/routerNavigatedAction",
+        "docType": "const",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "routernavigatedpayload",
+        "title": "RouterNavigatedPayload",
+        "path": "api/router-store/RouterNavigatedPayload",
+        "docType": "type-alias",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "routernavigationaction",
+        "title": "RouterNavigationAction",
+        "path": "api/router-store/RouterNavigationAction",
+        "docType": "type-alias",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "routernavigationaction",
+        "title": "routerNavigationAction",
+        "path": "api/router-store/routerNavigationAction",
+        "docType": "const",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "routernavigationpayload",
+        "title": "RouterNavigationPayload",
+        "path": "api/router-store/RouterNavigationPayload",
+        "docType": "type-alias",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "routerreducer",
+        "title": "routerReducer",
+        "path": "api/router-store/routerReducer",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "routerreducerstate",
+        "title": "RouterReducerState",
+        "path": "api/router-store/RouterReducerState",
+        "docType": "type-alias",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "routerrequestaction",
+        "title": "RouterRequestAction",
+        "path": "api/router-store/RouterRequestAction",
+        "docType": "type-alias",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "routerrequestaction",
+        "title": "routerRequestAction",
+        "path": "api/router-store/routerRequestAction",
+        "docType": "const",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "routerrequestpayload",
+        "title": "RouterRequestPayload",
+        "path": "api/router-store/RouterRequestPayload",
+        "docType": "type-alias",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "routerstate",
+        "title": "RouterState",
+        "path": "api/router-store/RouterState",
+        "docType": "enum",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "routerstateserializer",
+        "title": "RouterStateSerializer",
+        "path": "api/router-store/RouterStateSerializer",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "serializedrouterstatesnapshot",
+        "title": "SerializedRouterStateSnapshot",
+        "path": "api/router-store/SerializedRouterStateSnapshot",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "statekeyorselector",
+        "title": "StateKeyOrSelector",
+        "path": "api/router-store/StateKeyOrSelector",
+        "docType": "type-alias",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "storerouterconfig",
+        "title": "StoreRouterConfig",
+        "path": "api/router-store/StoreRouterConfig",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "storerouterconnectingmodule",
+        "title": "StoreRouterConnectingModule",
+        "path": "api/router-store/StoreRouterConnectingModule",
+        "docType": "ngmodule",
+        "stability": "stable",
+        "securityRisk": false
+      }
+    ]
+  },
+  {
+    "name": "data",
+    "title": "data",
+    "path": "api/data",
+    "items": [
+      {
+        "name": "changeset",
+        "title": "ChangeSet",
+        "path": "api/data/ChangeSet",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "changesetadd",
+        "title": "ChangeSetAdd",
+        "path": "api/data/ChangeSetAdd",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "changesetdelete",
+        "title": "ChangeSetDelete",
+        "path": "api/data/ChangeSetDelete",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "changesetitem",
+        "title": "ChangeSetItem",
+        "path": "api/data/ChangeSetItem",
+        "docType": "type-alias",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "changesetitemfactory",
+        "title": "ChangeSetItemFactory",
+        "path": "api/data/ChangeSetItemFactory",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "changesetitemfactory",
+        "title": "changeSetItemFactory",
+        "path": "api/data/changeSetItemFactory",
+        "docType": "const",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "changesetoperation",
+        "title": "ChangeSetOperation",
+        "path": "api/data/ChangeSetOperation",
+        "docType": "enum",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "changesetupdate",
+        "title": "ChangeSetUpdate",
+        "path": "api/data/ChangeSetUpdate",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "changesetupsert",
+        "title": "ChangeSetUpsert",
+        "path": "api/data/ChangeSetUpsert",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "changestate",
+        "title": "ChangeState",
+        "path": "api/data/ChangeState",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "changestatemap",
+        "title": "ChangeStateMap",
+        "path": "api/data/ChangeStateMap",
+        "docType": "type-alias",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "changetype",
+        "title": "ChangeType",
+        "path": "api/data/ChangeType",
+        "docType": "enum",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "clearcollections",
+        "title": "ClearCollections",
+        "path": "api/data/ClearCollections",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "collectionselectors",
+        "title": "CollectionSelectors",
+        "path": "api/data/CollectionSelectors",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "correlationidgenerator",
+        "title": "CorrelationIdGenerator",
+        "path": "api/data/CorrelationIdGenerator",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "createemptyentitycollection",
+        "title": "createEmptyEntityCollection",
+        "path": "api/data/createEmptyEntityCollection",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "createentitycacheselector",
+        "title": "createEntityCacheSelector",
+        "path": "api/data/createEntityCacheSelector",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "createentitydefinition",
+        "title": "createEntityDefinition",
+        "path": "api/data/createEntityDefinition",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "dataserviceerror",
+        "title": "DataServiceError",
+        "path": "api/data/DataServiceError",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "defaultdataservice",
+        "title": "DefaultDataService",
+        "path": "api/data/DefaultDataService",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "defaultdataserviceconfig",
+        "title": "DefaultDataServiceConfig",
+        "path": "api/data/DefaultDataServiceConfig",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "defaultdataservicefactory",
+        "title": "DefaultDataServiceFactory",
+        "path": "api/data/DefaultDataServiceFactory",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "defaulthttpurlgenerator",
+        "title": "DefaultHttpUrlGenerator",
+        "path": "api/data/DefaultHttpUrlGenerator",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "defaultlogger",
+        "title": "DefaultLogger",
+        "path": "api/data/DefaultLogger",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "defaultpersistenceresulthandler",
+        "title": "DefaultPersistenceResultHandler",
+        "path": "api/data/DefaultPersistenceResultHandler",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "defaultpluralizer",
+        "title": "DefaultPluralizer",
+        "path": "api/data/DefaultPluralizer",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "defaultselectid",
+        "title": "defaultSelectId",
+        "path": "api/data/defaultSelectId",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entity_cache_meta_reducers",
+        "title": "ENTITY_CACHE_META_REDUCERS",
+        "path": "api/data/ENTITY_CACHE_META_REDUCERS",
+        "docType": "const",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entity_cache_name",
+        "title": "ENTITY_CACHE_NAME",
+        "path": "api/data/ENTITY_CACHE_NAME",
+        "docType": "const",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entity_cache_name_token",
+        "title": "ENTITY_CACHE_NAME_TOKEN",
+        "path": "api/data/ENTITY_CACHE_NAME_TOKEN",
+        "docType": "const",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entity_cache_selector_token",
+        "title": "ENTITY_CACHE_SELECTOR_TOKEN",
+        "path": "api/data/ENTITY_CACHE_SELECTOR_TOKEN",
+        "docType": "const",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entity_collection_meta_reducers",
+        "title": "ENTITY_COLLECTION_META_REDUCERS",
+        "path": "api/data/ENTITY_COLLECTION_META_REDUCERS",
+        "docType": "const",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entity_metadata_token",
+        "title": "ENTITY_METADATA_TOKEN",
+        "path": "api/data/ENTITY_METADATA_TOKEN",
+        "docType": "const",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entityaction",
+        "title": "EntityAction",
+        "path": "api/data/EntityAction",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entityactiondataserviceerror",
+        "title": "EntityActionDataServiceError",
+        "path": "api/data/EntityActionDataServiceError",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entityactionfactory",
+        "title": "EntityActionFactory",
+        "path": "api/data/EntityActionFactory",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entityactionguard",
+        "title": "EntityActionGuard",
+        "path": "api/data/EntityActionGuard",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entityactionoptions",
+        "title": "EntityActionOptions",
+        "path": "api/data/EntityActionOptions",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entityactionpayload",
+        "title": "EntityActionPayload",
+        "path": "api/data/EntityActionPayload",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entitycache",
+        "title": "EntityCache",
+        "path": "api/data/EntityCache",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entitycacheaction",
+        "title": "EntityCacheAction",
+        "path": "api/data/EntityCacheAction",
+        "docType": "enum",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entitycachecommands",
+        "title": "EntityCacheCommands",
+        "path": "api/data/EntityCacheCommands",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entitycachedataservice",
+        "title": "EntityCacheDataService",
+        "path": "api/data/EntityCacheDataService",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entitycachedispatcher",
+        "title": "EntityCacheDispatcher",
+        "path": "api/data/EntityCacheDispatcher",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entitycacheeffects",
+        "title": "EntityCacheEffects",
+        "path": "api/data/EntityCacheEffects",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entitycachequeryset",
+        "title": "EntityCacheQuerySet",
+        "path": "api/data/EntityCacheQuerySet",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entitycachereducerfactory",
+        "title": "EntityCacheReducerFactory",
+        "path": "api/data/EntityCacheReducerFactory",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entitycacheselector",
+        "title": "EntityCacheSelector",
+        "path": "api/data/EntityCacheSelector",
+        "docType": "type-alias",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entitycacheselectorprovider",
+        "title": "entityCacheSelectorProvider",
+        "path": "api/data/entityCacheSelectorProvider",
+        "docType": "const",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entitychangetracker",
+        "title": "EntityChangeTracker",
+        "path": "api/data/EntityChangeTracker",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entitychangetrackerbase",
+        "title": "EntityChangeTrackerBase",
+        "path": "api/data/EntityChangeTrackerBase",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entitycollection",
+        "title": "EntityCollection",
+        "path": "api/data/EntityCollection",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entitycollectioncreator",
+        "title": "EntityCollectionCreator",
+        "path": "api/data/EntityCollectionCreator",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entitycollectiondataservice",
+        "title": "EntityCollectionDataService",
+        "path": "api/data/EntityCollectionDataService",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entitycollectionreducer",
+        "title": "EntityCollectionReducer",
+        "path": "api/data/EntityCollectionReducer",
+        "docType": "type-alias",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entitycollectionreducerfactory",
+        "title": "EntityCollectionReducerFactory",
+        "path": "api/data/EntityCollectionReducerFactory",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entitycollectionreducermethodmap",
+        "title": "EntityCollectionReducerMethodMap",
+        "path": "api/data/EntityCollectionReducerMethodMap",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entitycollectionreducermethods",
+        "title": "EntityCollectionReducerMethods",
+        "path": "api/data/EntityCollectionReducerMethods",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entitycollectionreducermethodsfactory",
+        "title": "EntityCollectionReducerMethodsFactory",
+        "path": "api/data/EntityCollectionReducerMethodsFactory",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entitycollectionreducerregistry",
+        "title": "EntityCollectionReducerRegistry",
+        "path": "api/data/EntityCollectionReducerRegistry",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entitycollectionreducers",
+        "title": "EntityCollectionReducers",
+        "path": "api/data/EntityCollectionReducers",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entitycollectionservice",
+        "title": "EntityCollectionService",
+        "path": "api/data/EntityCollectionService",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entitycollectionservicebase",
+        "title": "EntityCollectionServiceBase",
+        "path": "api/data/EntityCollectionServiceBase",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entitycollectionserviceelements",
+        "title": "EntityCollectionServiceElements",
+        "path": "api/data/EntityCollectionServiceElements",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entitycollectionserviceelementsfactory",
+        "title": "EntityCollectionServiceElementsFactory",
+        "path": "api/data/EntityCollectionServiceElementsFactory",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entitycollectionservicefactory",
+        "title": "EntityCollectionServiceFactory",
+        "path": "api/data/EntityCollectionServiceFactory",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entitycollectionservicemap",
+        "title": "EntityCollectionServiceMap",
+        "path": "api/data/EntityCollectionServiceMap",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entitycommands",
+        "title": "EntityCommands",
+        "path": "api/data/EntityCommands",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entitydatamodule",
+        "title": "EntityDataModule",
+        "path": "api/data/EntityDataModule",
+        "docType": "ngmodule",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entitydatamoduleconfig",
+        "title": "EntityDataModuleConfig",
+        "path": "api/data/EntityDataModuleConfig",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entitydatamodulewithouteffects",
+        "title": "EntityDataModuleWithoutEffects",
+        "path": "api/data/EntityDataModuleWithoutEffects",
+        "docType": "ngmodule",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entitydataservice",
+        "title": "EntityDataService",
+        "path": "api/data/EntityDataService",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entitydefinition",
+        "title": "EntityDefinition",
+        "path": "api/data/EntityDefinition",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entitydefinitions",
+        "title": "EntityDefinitions",
+        "path": "api/data/EntityDefinitions",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entitydefinitionservice",
+        "title": "EntityDefinitionService",
+        "path": "api/data/EntityDefinitionService",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entitydispatcher",
+        "title": "EntityDispatcher",
+        "path": "api/data/EntityDispatcher",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entitydispatcherbase",
+        "title": "EntityDispatcherBase",
+        "path": "api/data/EntityDispatcherBase",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entitydispatcherdefaultoptions",
+        "title": "EntityDispatcherDefaultOptions",
+        "path": "api/data/EntityDispatcherDefaultOptions",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entitydispatcherfactory",
+        "title": "EntityDispatcherFactory",
+        "path": "api/data/EntityDispatcherFactory",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entityeffects",
+        "title": "EntityEffects",
+        "path": "api/data/EntityEffects",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entityfilterfn",
+        "title": "EntityFilterFn",
+        "path": "api/data/EntityFilterFn",
+        "docType": "type-alias",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entityhttpresourceurls",
+        "title": "EntityHttpResourceUrls",
+        "path": "api/data/EntityHttpResourceUrls",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entitymetadata",
+        "title": "EntityMetadata",
+        "path": "api/data/EntityMetadata",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entitymetadatamap",
+        "title": "EntityMetadataMap",
+        "path": "api/data/EntityMetadataMap",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entityop",
+        "title": "EntityOp",
+        "path": "api/data/EntityOp",
+        "docType": "enum",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entitypluralnames",
+        "title": "EntityPluralNames",
+        "path": "api/data/EntityPluralNames",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entityselectors",
+        "title": "EntitySelectors",
+        "path": "api/data/EntitySelectors",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entityselectors$",
+        "title": "EntitySelectors$",
+        "path": "api/data/EntitySelectors$",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entityselectors$factory",
+        "title": "EntitySelectors$Factory",
+        "path": "api/data/EntitySelectors$Factory",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entityselectorsfactory",
+        "title": "EntitySelectorsFactory",
+        "path": "api/data/EntitySelectorsFactory",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entityservercommands",
+        "title": "EntityServerCommands",
+        "path": "api/data/EntityServerCommands",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entityservices",
+        "title": "EntityServices",
+        "path": "api/data/EntityServices",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entityservicesbase",
+        "title": "EntityServicesBase",
+        "path": "api/data/EntityServicesBase",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "entityserviceselements",
+        "title": "EntityServicesElements",
+        "path": "api/data/EntityServicesElements",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "excludeemptychangesetitems",
+        "title": "excludeEmptyChangeSetItems",
+        "path": "api/data/excludeEmptyChangeSetItems",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "flattenargs",
+        "title": "flattenArgs",
+        "path": "api/data/flattenArgs",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "getguid",
+        "title": "getGuid",
+        "path": "api/data/getGuid",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "getguidcomb",
+        "title": "getGuidComb",
+        "path": "api/data/getGuidComb",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "guidcomparer",
+        "title": "guidComparer",
+        "path": "api/data/guidComparer",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "httpmethods",
+        "title": "HttpMethods",
+        "path": "api/data/HttpMethods",
+        "docType": "type-alias",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "httpresourceurls",
+        "title": "HttpResourceUrls",
+        "path": "api/data/HttpResourceUrls",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "httpurlgenerator",
+        "title": "HttpUrlGenerator",
+        "path": "api/data/HttpUrlGenerator",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "initial_entity_cache_state",
+        "title": "INITIAL_ENTITY_CACHE_STATE",
+        "path": "api/data/INITIAL_ENTITY_CACHE_STATE",
+        "docType": "const",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "loadcollections",
+        "title": "LoadCollections",
+        "path": "api/data/LoadCollections",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "logger",
+        "title": "Logger",
+        "path": "api/data/Logger",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "makeerrorop",
+        "title": "makeErrorOp",
+        "path": "api/data/makeErrorOp",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "makesuccessop",
+        "title": "makeSuccessOp",
+        "path": "api/data/makeSuccessOp",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "mergequeryset",
+        "title": "MergeQuerySet",
+        "path": "api/data/MergeQuerySet",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "mergestrategy",
+        "title": "MergeStrategy",
+        "path": "api/data/MergeStrategy",
+        "docType": "enum",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "normalizeroot",
+        "title": "normalizeRoot",
+        "path": "api/data/normalizeRoot",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "ofentityop",
+        "title": "ofEntityOp",
+        "path": "api/data/ofEntityOp",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "ofentitytype",
+        "title": "ofEntityType",
+        "path": "api/data/ofEntityType",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "op_error",
+        "title": "OP_ERROR",
+        "path": "api/data/OP_ERROR",
+        "docType": "const",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "op_success",
+        "title": "OP_SUCCESS",
+        "path": "api/data/OP_SUCCESS",
+        "docType": "const",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "persistancecanceled",
+        "title": "PersistanceCanceled",
+        "path": "api/data/PersistanceCanceled",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "persistenceresulthandler",
+        "title": "PersistenceResultHandler",
+        "path": "api/data/PersistenceResultHandler",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "persistops",
+        "title": "persistOps",
+        "path": "api/data/persistOps",
+        "docType": "const",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "plural_names_token",
+        "title": "PLURAL_NAMES_TOKEN",
+        "path": "api/data/PLURAL_NAMES_TOKEN",
+        "docType": "const",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "pluralizer",
+        "title": "Pluralizer",
+        "path": "api/data/Pluralizer",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "propsfilterfnfactory",
+        "title": "PropsFilterFnFactory",
+        "path": "api/data/PropsFilterFnFactory",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "queryparams",
+        "title": "QueryParams",
+        "path": "api/data/QueryParams",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "requestdata",
+        "title": "RequestData",
+        "path": "api/data/RequestData",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "saveentities",
+        "title": "SaveEntities",
+        "path": "api/data/SaveEntities",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "saveentitiescancel",
+        "title": "SaveEntitiesCancel",
+        "path": "api/data/SaveEntitiesCancel",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "saveentitiescanceled",
+        "title": "SaveEntitiesCanceled",
+        "path": "api/data/SaveEntitiesCanceled",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "saveentitieserror",
+        "title": "SaveEntitiesError",
+        "path": "api/data/SaveEntitiesError",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "saveentitiessuccess",
+        "title": "SaveEntitiesSuccess",
+        "path": "api/data/SaveEntitiesSuccess",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "setentitycache",
+        "title": "SetEntityCache",
+        "path": "api/data/SetEntityCache",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "toupdatefactory",
+        "title": "toUpdateFactory",
+        "path": "api/data/toUpdateFactory",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "updateresponsedata",
+        "title": "UpdateResponseData",
+        "path": "api/data/UpdateResponseData",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      }
+    ]
+  },
+  {
+    "name": "component-store",
+    "title": "component-store",
+    "path": "api/component-store",
+    "items": [
+      {
+        "name": "componentstore",
+        "title": "ComponentStore",
+        "path": "api/component-store/ComponentStore",
+        "docType": "class",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "initial_state_token",
+        "title": "INITIAL_STATE_TOKEN",
+        "path": "api/component-store/INITIAL_STATE_TOKEN",
+        "docType": "const",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "selectconfig",
+        "title": "SelectConfig",
+        "path": "api/component-store/SelectConfig",
+        "docType": "interface",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "selectorprojector",
+        "title": "SelectorProjector",
+        "path": "api/component-store/SelectorProjector",
+        "docType": "type-alias",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "selectorresults",
+        "title": "SelectorResults",
+        "path": "api/component-store/SelectorResults",
+        "docType": "type-alias",
+        "stability": "stable",
+        "securityRisk": false
+      },
+      {
+        "name": "tapresponse",
+        "title": "tapResponse",
+        "path": "api/component-store/tapResponse",
+        "docType": "function",
+        "stability": "stable",
+        "securityRisk": false
+      }
+    ]
+  }
+]

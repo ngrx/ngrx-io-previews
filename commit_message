@@ -1,1 +1,1 @@
-4c23651b2 add selector optimization to migration guide
+37e4a919 perf(router-store): optimize selectQueryParams, selectQueryParam and selectFragment selectors

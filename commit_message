@@ -1,1 +1,1 @@
-37e4a919 perf(router-store): optimize selectQueryParams, selectQueryParam and selectFragment selectors
+4ac207a6 docs: fix 'empty object as a props type' migration guide

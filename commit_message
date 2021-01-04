@@ -1,1 +1,1 @@
-7a47138e refactor(store): remove ActionReducer from 'on' generics and use labeled tuple for arguments
+061b7a68 docs: fix 'empty object as a props type' migration guide

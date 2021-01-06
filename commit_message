@@ -1,1 +1,1 @@
-061b7a68 docs: fix 'empty object as a props type' migration guide
+4df4779c Revert "feat(store): add object-style StoreModule.forFeature overload (#2821)"

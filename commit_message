@@ -1,1 +1,1 @@
-4df4779c Revert "feat(store): add object-style StoreModule.forFeature overload (#2821)"
+d19b32e5 feat(Effects): deprecate @Effect decorator

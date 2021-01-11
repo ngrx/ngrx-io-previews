@@ -1,1 +1,1 @@
-cbeb8a8d fix(component): transform to Observable if Input is Promise
+81f1022a fix(component): remove ? from LetViewContext props to prevent 'possibly undefined' error in strict mode

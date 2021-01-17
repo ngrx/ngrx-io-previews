@@ -1,1 +1,1 @@
-de13cb09 fix(component): transform to Observable if Input is Promise
+a81b3dbc feat(schematics): add component store schematics

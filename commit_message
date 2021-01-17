@@ -1,1 +1,1 @@
-89177739 fix(component): transform to Observable if Input is Promise
+de13cb09 fix(component): transform to Observable if Input is Promise

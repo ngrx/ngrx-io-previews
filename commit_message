@@ -1,1 +1,1 @@
-545272c3 refactor(store-devtools): replace deprecated empty() function
+6d7281b6 fix(data): make entity param partial when is not optimistic

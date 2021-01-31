@@ -1,1 +1,1 @@
-8245237b refactor(store) used variadic tuple types for createSelector
+8da6f4ec fix(data): type overloaded add for is optimistic true | undefined

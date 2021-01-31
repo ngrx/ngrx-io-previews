@@ -1,1 +1,1 @@
-8da6f4ec fix(data): type overloaded add for is optimistic true | undefined
+aa0491d0 doc(data): type story as partial to represent the is optimistic false flag

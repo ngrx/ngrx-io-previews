@@ -1,1 +1,1 @@
-d2d8d781 feat(store-devtools) add autoPause option
+2c420917 docs(component-store): fix to call `addMovie()` with not string but interface Movie

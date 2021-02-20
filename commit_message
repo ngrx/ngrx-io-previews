@@ -1,1 +1,1 @@
-4d8cedd3 feat(component-store): add ability for patchState to accept Observable
+5ecdf397 docs(component-store): fix the argument type from string to Movie

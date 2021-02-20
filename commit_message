@@ -1,1 +1,1 @@
-8bd62d40 docs(effects): update test examples for synchronous behavior
+150ed5ea feat(router-store) warn about DefaultRouterStateSerializer with runtime checks enabled

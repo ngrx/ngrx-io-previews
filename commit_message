@@ -1,1 +1,1 @@
-c59b52c6 feat(router-store) warn about DefaultRouterStateSerializer for runtime checks enabled
+78ba9841 feat(store-devtools) add autoPause option

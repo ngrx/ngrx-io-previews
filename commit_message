@@ -1,1 +1,1 @@
-8c3b986f docs: fix ngrx version to use on ng update
+fd4b0461 feat(router-store) warn about DefaultRouterStateSerializer for runtime checks enabled

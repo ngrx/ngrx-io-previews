@@ -1,1 +1,1 @@
-3698b1ca fix(schematics): assert empty as action observable
+30d58aed ci: dont lint in parallel

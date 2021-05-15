@@ -1,1 +1,1 @@
-417ddefc docs(entity): fix selectedUserId type
+b6a17609 fix(data): remove strict typing for optimistic false

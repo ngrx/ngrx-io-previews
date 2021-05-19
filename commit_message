@@ -1,1 +1,1 @@
-d155cd05 refactor(store) used variadic tuple types for createSelector
+32c4cf5b docs(adding-ngrx-to-existing-apps): add a documentation page detailing migration to NgRx for existing apps

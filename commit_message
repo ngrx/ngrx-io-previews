@@ -1,1 +1,1 @@
-ef7553cc feat(schematics): add the ability to create actions with the prefix
+e25a280f feat(entity): new `setMany` adapter (#3026)

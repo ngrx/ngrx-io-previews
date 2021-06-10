@@ -1,1 +1,1 @@
-53fa15d8 docs(adding-ngrx-to-existing-apps): fix example folder structure, make examples step-by-step
+f9f3e7d4 fix(store): ignore ngrx/data actions for runtime checks

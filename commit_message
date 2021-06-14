@@ -1,1 +1,1 @@
-f9f3e7d4 fix(store): ignore ngrx/data actions for runtime checks
+249ce8ec Merge branch 'ngrx-data-error' of https://github.com/donohoea/platform into ngrx-data-error

@@ -1,1 +1,1 @@
-249ce8ec Merge branch 'ngrx-data-error' of https://github.com/donohoea/platform into ngrx-data-error
+cc3d829f fix(data): make options optional on add with partial

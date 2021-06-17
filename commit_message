@@ -1,1 +1,1 @@
-cc3d829f fix(data): make options optional on add with partial
+048414ef fix(component): avoid early destruction of view in ngrxLet which interfered with animations (#2890)

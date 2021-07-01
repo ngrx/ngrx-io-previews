@@ -1,1 +1,1 @@
-026cf6b9 feat(store): provide better TS errors for action creator props
+b05a69d6 added primitive restriction and made errors separate for props and creator fn usage

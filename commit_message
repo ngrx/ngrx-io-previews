@@ -1,1 +1,1 @@
-2bda654c fix(data): change order of op and tag in EntityAction type
+026cf6b9 feat(store): provide better TS errors for action creator props

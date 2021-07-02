@@ -1,1 +1,1 @@
-4570454d removed more props specs
+7d6c38c8 docs(store): add note about using createFeatureSelector with no generic supplied to`Store`

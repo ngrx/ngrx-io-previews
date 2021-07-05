@@ -1,1 +1,1 @@
-69cd423a fix(data): change order of op and tag in EntityAction type
+af78b68b test(store): fix strictImmutability tests passing by default

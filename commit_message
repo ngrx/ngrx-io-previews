@@ -1,1 +1,1 @@
-9ed6fb65 feat(reducer-manager): permit to access reducers
+69cd423a fix(data): change order of op and tag in EntityAction type

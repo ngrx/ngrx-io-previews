@@ -1,1 +1,1 @@
-76362166 test: apply check if getter for currentReducers works as expected
+69443838 test(store): fix strictImmutability tests passing by default

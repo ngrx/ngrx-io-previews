@@ -1,1 +1,1 @@
-4c9e7a4e docs(effects): rearrange JDOCs, to actually show up in the documentation
+801af264 feat(effect): move createEffect migration to ng-update migration

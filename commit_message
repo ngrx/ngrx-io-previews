@@ -1,1 +1,1 @@
-9f340916 fix: replace ## example with @usageNotes
+d14d8b3a fix(component): remove class-level generic from PushPipe

@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1632335568315,
+  "timestamp": 1632341024518,
   "index": "/pr3149-e8c75cdf/index.html",
   "assetGroups": [
     {
@@ -12,6 +12,7 @@
       },
       "urls": [
         "/pr3149-e8c75cdf/app/search/search-worker.js",
+        "/pr3149-e8c75cdf/assets/images/favicons/favicon.ico",
         "/pr3149-e8c75cdf/assets/js/custom-elements.min.js",
         "/pr3149-e8c75cdf/assets/js/lunr.min.js",
         "/pr3149-e8c75cdf/assets/js/native-shim.js",
@@ -143,7 +144,6 @@
         "/pr3149-e8c75cdf/assets/images/favicons/favicon-194x194.png",
         "/pr3149-e8c75cdf/assets/images/favicons/favicon-32x32.png",
         "/pr3149-e8c75cdf/assets/images/favicons/favicon-96x96.png",
-        "/pr3149-e8c75cdf/assets/images/favicons/favicon.ico",
         "/pr3149-e8c75cdf/generated/ie-polyfills.min.js"
       ],
       "patterns": []
@@ -158,6 +158,19 @@
       "urls": [
         "/pr3149-e8c75cdf/generated/announcements.json",
         "/pr3149-e8c75cdf/generated/contributors.json",
+        "/pr3149-e8c75cdf/generated/docs/about.json",
+        "/pr3149-e8c75cdf/generated/docs/api.json",
+        "/pr3149-e8c75cdf/generated/docs/api/api-list.json",
+        "/pr3149-e8c75cdf/generated/docs/app/search-data.json",
+        "/pr3149-e8c75cdf/generated/docs/contributing.json",
+        "/pr3149-e8c75cdf/generated/docs/docs.json",
+        "/pr3149-e8c75cdf/generated/docs/events.json",
+        "/pr3149-e8c75cdf/generated/docs/file-not-found.json",
+        "/pr3149-e8c75cdf/generated/docs/index.json",
+        "/pr3149-e8c75cdf/generated/docs/license.json",
+        "/pr3149-e8c75cdf/generated/docs/presskit.json",
+        "/pr3149-e8c75cdf/generated/docs/resources.json",
+        "/pr3149-e8c75cdf/generated/docs/test.json",
         "/pr3149-e8c75cdf/generated/events.json",
         "/pr3149-e8c75cdf/generated/navigation.json",
         "/pr3149-e8c75cdf/generated/resources.json"
@@ -172,9 +185,6 @@
         "ignoreVary": true
       },
       "urls": [
-        "/pr3149-e8c75cdf/generated/docs/about.json",
-        "/pr3149-e8c75cdf/generated/docs/api.json",
-        "/pr3149-e8c75cdf/generated/docs/api/api-list.json",
         "/pr3149-e8c75cdf/generated/docs/api/component-store.json",
         "/pr3149-e8c75cdf/generated/docs/api/component-store/ComponentStore.json",
         "/pr3149-e8c75cdf/generated/docs/api/component-store/INITIAL_STATE_TOKEN.json",
@@ -482,11 +492,6 @@
         "/pr3149-e8c75cdf/generated/docs/api/store/testing/getMockStore.json",
         "/pr3149-e8c75cdf/generated/docs/api/store/testing/provideMockStore.json",
         "/pr3149-e8c75cdf/generated/docs/api/store/union.json",
-        "/pr3149-e8c75cdf/generated/docs/app/search-data.json",
-        "/pr3149-e8c75cdf/generated/docs/contributing.json",
-        "/pr3149-e8c75cdf/generated/docs/docs.json",
-        "/pr3149-e8c75cdf/generated/docs/events.json",
-        "/pr3149-e8c75cdf/generated/docs/file-not-found.json",
         "/pr3149-e8c75cdf/generated/docs/guide/component-store.json",
         "/pr3149-e8c75cdf/generated/docs/guide/component-store/comparison.json",
         "/pr3149-e8c75cdf/generated/docs/guide/component-store/effect.json",
@@ -568,11 +573,6 @@
         "/pr3149-e8c75cdf/generated/docs/guide/store/walkthrough.json",
         "/pr3149-e8c75cdf/generated/docs/guide/store/why.json",
         "/pr3149-e8c75cdf/generated/docs/guide/style-guide.json",
-        "/pr3149-e8c75cdf/generated/docs/index.json",
-        "/pr3149-e8c75cdf/generated/docs/license.json",
-        "/pr3149-e8c75cdf/generated/docs/presskit.json",
-        "/pr3149-e8c75cdf/generated/docs/resources.json",
-        "/pr3149-e8c75cdf/generated/docs/test.json",
         "/pr3149-e8c75cdf/generated/images/bios/_no-one.jpg",
         "/pr3149-e8c75cdf/generated/images/bios/alexo.jpg",
         "/pr3149-e8c75cdf/generated/images/bios/brandonroberts.jpg",

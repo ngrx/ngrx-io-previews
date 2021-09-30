@@ -1,1 +1,1 @@
-52ae90e0 feat: update to RxJS 7.3.x
+3568929a docs(store-walkthrough): refactor from store.pipe(select(...)) to store.select(...)

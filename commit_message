@@ -1,1 +1,1 @@
-3568929a docs(store-walkthrough): refactor from store.pipe(select(...)) to store.select(...)
+ac1dd864 chore: update schematic files

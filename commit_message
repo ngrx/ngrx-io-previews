@@ -1,1 +1,1 @@
-84a33a4f docs(component-store): MatPaginator example prevent emitting changes on initialization
+fd97a931 docs(entity): fix code snippet for selectCurrentUser selector

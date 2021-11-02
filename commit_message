@@ -1,1 +1,1 @@
-85fef8a2 apply Tim's CR suggestions
+b70f02fa test(store): fix StoreModule.forFeature test with slice object

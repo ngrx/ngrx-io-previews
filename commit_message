@@ -1,1 +1,1 @@
-dd49aef3 updated generic method signature to use unknown
+89664f0b feat(store) deprecate loose projector in favor of strict projector

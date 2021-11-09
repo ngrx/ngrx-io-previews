@@ -1,1 +1,1 @@
-89664f0b feat(store) deprecate loose projector in favor of strict projector
+7a8f3a6f chore: remove parallel from affected tests in CI

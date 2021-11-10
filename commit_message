@@ -1,1 +1,1 @@
-fd1ae986 chore: review fixes
+c1d35a23 #3165 - getWithQuery method has not set the loaded property to true as opposed to getAll method. Now they both are kept consistent and do it the same

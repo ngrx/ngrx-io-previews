@@ -1,1 +1,1 @@
-7d6fe1a8 #3165 - getWithQuery method has not set the loaded property to true as opposed to getAll method. Now they both are kept consistent and do it the same
+6dc469d6 docs: update docs app to Angular 13

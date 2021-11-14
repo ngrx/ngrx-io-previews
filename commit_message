@@ -1,1 +1,1 @@
-8ee24922 docs(router-store): place `serializer` setting documentation correctly
+ab1db7b0 feat(store) add migration for create selector generics

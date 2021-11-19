@@ -1,1 +1,1 @@
-3a44e062 fix(store): do not reset selectors if destroyAfterEach is enabled
+07c9824a store: comment to explain these changes

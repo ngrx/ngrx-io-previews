@@ -1,1 +1,1 @@
-1241aa7c docs: add v13 migration
+3a44e062 fix(store): do not reset selectors if destroyAfterEach is enabled
